@@ -5,3 +5,5 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sawkaqa&show_icons=true&theme=dark)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
