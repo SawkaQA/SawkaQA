@@ -3,4 +3,4 @@
 <h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36F70D&width=435&lines=Junior+QA+Engineer+from+Russia+%3A)" alt="Typing SVG" /></a></h2>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sawkaqa&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sawkaqa&show_icons=true&theme=dark)
