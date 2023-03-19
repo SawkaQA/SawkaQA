@@ -1,10 +1,8 @@
 <img align="middle" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="100%"/>
 
-<h1 align="center">𝐇𝐢, 𝐦𝐲 𝐧𝐚𝐦𝐞 𝐢𝐬 𝐀𝐥𝐞𝐱𝐚𝐧𝐝𝐫
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="52"/>
-</h1>
-
-<div align="middle" id="badges">
+<div align="center">
+<h1>𝐇𝐢, 𝐦𝐲 𝐧𝐚𝐦𝐞 𝐢𝐬 𝐀𝐥𝐞𝐱𝐚𝐧𝐝𝐫
+<p align="middle">
   <a href="https://www.linkedin.com/in/aleksandr-sdobnov/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -14,8 +12,8 @@
   <a href="mailto:aleksandr.sdobnov.qa@gmail.com">
     <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+</p>
 </div>
-
 <h2 align="center" weight="200" height="200" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=fff&width=435&lines=Junior+QA+Engineer+from+Russia+%3A)" alt="Typing SVG" /></a></h2>
 
 𝐇𝐚𝐫𝐝 𝐬𝐤𝐢𝐥𝐥𝐬 & 𝐓𝐨𝐨𝐥𝐬:
