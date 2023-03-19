@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" heigth="400" width="500"/>
+<img align="middle" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="100%"/>
 
 <h1 align="center">𝐇𝐢, 𝐦𝐲 𝐧𝐚𝐦𝐞 𝐢𝐬 𝐀𝐥𝐞𝐱𝐚𝐧𝐝𝐫
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="52"/>
