@@ -16,6 +16,6 @@
   <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=fff&width=435&lines=QA+Engineer+from+Russia+%3A)" alt="Typing SVG" /></a
 </div>
 
-
+<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sawkaqa&show_icons=true&theme=tokyonight)
-
+</div>
