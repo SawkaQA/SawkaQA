@@ -13,9 +13,7 @@
     <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   </p>
-  <div align="center">
-  <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=fff&width=435&lines=QA+Engineer+from+Russia+%3A)" alt="Typing SVG" /></a
-  </div>                                                                                                                                                                                                            
+  <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=fff&width=435&lines=QA+Engineer+from+Russia+%3A)" alt="Typing SVG" /></a>                                                                                                                                                                                                         
 </div>
 
 
