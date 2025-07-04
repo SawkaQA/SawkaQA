@@ -5,10 +5,10 @@
 <p align="middle">
   <a href="https://www.linkedin.com/in/aleksandr-sdobnov/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+<!--   </a>
    <a href="https://t.me/qaenjoyerrr">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
+  </a> -->
   <a href="mailto:aleksandr.sdobnov.qa@gmail.com">
     <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
