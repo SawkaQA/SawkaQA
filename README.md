@@ -9,13 +9,10 @@
    <a href="https://t.me/qaenjoyerrr">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a> -->
-  <a href="mailto:aleksandr.sdobnov.qa@gmail.com">
+  <!-- <a href="mailto:aleksandr.sdobnov.qa@gmail.com">
     <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
+  </a> -->
   </p>
   <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=fff&width=435&lines=QA+Engineer%3A)" alt="Typing SVG"/><a                                                                                                                                                                                                         
 </div>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sawkaqa&show_icons=true&theme=tokyonight)
 
